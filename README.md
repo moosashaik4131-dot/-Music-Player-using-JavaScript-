@@ -12,7 +12,7 @@ A fully functional music player built with HTML, CSS, and JavaScript. Includes b
 - Displays song title, artist, and duration
 - Interactive progress bar
 - Volume slider
-- Playlist support (6 songs)
+- Playlist support (5 songs)
 - Autoplay on next song
 
 ##  Folder Structure
@@ -24,8 +24,7 @@ music-player/
 -  ├── song2.mp3
 -  ├── song3.mp3
 -  ├── song4.mp3
--  ├── song5.mp3
--  └── song6.mp3
+-  └── song5.mp3
 
 ##  How to Use
 1. Open index.html in your browser.
